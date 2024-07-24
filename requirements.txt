@@ -16,3 +16,8 @@ grpcio
 websockets
 msgpack-python
 protobuf>=3.19.6
+transformers
+sentencepiece
+fugashi
+unidic_lite
+bitnet
